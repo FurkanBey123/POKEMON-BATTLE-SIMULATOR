@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "best-pokemons-listed",
+  "private_key_id": "e1960135a6a6a9e7a0c0ed5a166a868f761e82ff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7bJAQ3WtvEu51\nSzMJqWVDKtK1ykHgAf+ipQEh85oMeJq17Ti25MwdW+6S1O9Zh92bOwvM4y2G1ilJ\nyzzBktZ02YYsE2D3dAyfJW9sde89aGnAfUKF5+XHlU+WVErL8WFeXxTRWDbQfT02\nMKzNadT7WCp67W9CFZRdrZJmcTHY5cjLql9wU2e2aXtGOts6D6Otq7j6jqoVvlwQ\nNIjO9h6pFPAPM3LE/TV5Rf919Jn1bCh5339R9QwU+LFpFlpjgguOdMnJh4a1dP5C\n3T1TKaKrWCQmFP9HHKrJk1zhM/Min/jNzVRDAPeQkCzEWf0qHDoyJGn9VQftKF1o\n2E4CTq4nAgMBAAECggEAA6Ytd+aXvOXldqssJzgBHLmsuJVjivT/AS+tQff4O93t\nRTWFMSprPvcXQgybTGb0zZzsseSKcmGhFCq82Bf/zO6fSiRmcurzg/W6oaX6Lnvl\n8zV9IhZNxwEFN6wUeLwOZUP8p8bL6mtF0dRIyQcSeoJQ8WvGCsdYyCok+5GgotRt\n8QGSSODS4yzrxnEf9g/Fhr+8m0vMzrnSW1e6S6qsHAiwdguzp4lqprR/e/07Rka+\n6tFxPjuLwR70SdDo2JEA2limHj2D5AO4a1avCzZWhP9Zu/0ZD6pzIvjgi5jnHZE4\nu4ZHrToWMfXT7N5MoJnZGtcTmCdAnJa7sixFI1AboQKBgQDuXMDNemVcphDRm+Og\ny9IVI4EFaDsrhgt6QZcrUE7aZKsH57/6LDXrjeWUfw11/UjH0wjrq9fOoXoIHCNf\ns964r/x+XmfgQZVnzB1/NIhacZeXVQXnsinfuVabWIOS+zgDTBx0AH3/FdDJqaHl\nrCeyOzeOOY0a65bKk1kYhzEsjQKBgQDJSuWzLK3jvbn6C0N8ZkTcrga3xzXH4qHP\n6xY3GIpr2YUXwX/4WSpcWksdBgHFX0GiJMKAdDNPxmmDbZyTq0EiC+la45LIp0/a\nEDU7u6TyfZcS99BJLyDGw/8PSDKj3xzdSBvFEs9TJ0g82HeXT7cywrnP4bSDG2Fd\nr8ktihzqgwKBgQDfGAsQhp02QOv+83PyfLINPOS2Rd8TlmtJqvgs/wY+m/gD9yGU\nqipxZKba/KuBomWrOVbhFT5wVGxeCNAG89fibjzZncyFdXy74Kw+8dEpLaYfauGT\nAQr2LYbk8Mx9FgpP872xyQAkbquzA8TWrPGefJQ71pu99YB168F5FpesxQKBgQCF\nNHwnAtUb1YzBzDxfkSnWw48MhNaxLOeZuN9dnG7Vif+KRfGSficLMHFuhnAblbrQ\nOvU/niXqj8l5QMsR6Y1To4BMNjcHc7ji/EDOA5HXKocT9UwvcfGFt2QNT+C7EsV+\nJd7Cnnz2cRNbuIADcKwx+iyORbV34WGgZtiBu1kBUwKBgGLasqiErw+AGQHbKUxD\nNcQh3KJm+YFZ4slMZ414Sw1hGyYOMXjmKQJsGZuak4ZXHVP1FnQK+UI9JeGeF/Aa\nnQLZYafQqHdddRMA/tNtQounty7CLzeukbKMDso1WLuINSWmLpkRd5lG74qAZLz9\nOVv4ggC/Q8dB5Ovs3rL2ttr7\n-----END PRIVATE KEY-----\n",
+  "client_email": "best-pokemons-listed@best-pokemons-listed.iam.gserviceaccount.com",
+  "client_id": "115578326645562972177",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/best-pokemons-listed%40best-pokemons-listed.iam.gserviceaccount.com"
+}
