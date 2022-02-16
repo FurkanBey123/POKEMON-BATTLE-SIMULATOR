@@ -1,5 +1,6 @@
 # Pokemon-Battle
-Every pokemon participates in 1808 matches, with each winning point worth one point.
+
+During the program, each pokemon is pitted against 903 other pokemons. If they are on the attackers' side, they will start the fighting by doing damage first. However, on the defender side, they will always damage after the attacker. That is why, every pokemon participates in 1808 matches and with each winning gets one point.
 
 The program works with pokemon's base stats. As there are some variables that could be changed by chance in the pokemon go game, I have taken them as the same for all pokemons. In order to get the best results, all of these variables were created by trial and error. Here is list of these variables;
 
