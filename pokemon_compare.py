@@ -9,7 +9,7 @@ class PokemonCompare:
         self.data_frame = pd.read_csv("pokemon_stats.csv")
         self.score_board = {}
         self.score_board_creator()
-        self.pokemon_battler()
+        self.pokemon_compare()
         self.sorted_score_board = dict(sorted(self.score_board.items(), key=lambda item: item[1]))
         self.sorted_score_board = dict(reversed(list(self.sorted_score_board.items())))
 
@@ -18,7 +18,7 @@ class PokemonCompare:
             self.score_board[f"{pokemon[2]}"] = 0
 
     # ------------------------------MAIN POKEMON COMPARE FUNCTION------------------------------------- #
-    def pokemon_battler(self):
+    def pokemon_compare(self):
         for attacker in self.data_frame.itertuples():
             for defender in self.data_frame.itertuples():
                 attacker_type1 = attacker[3]
